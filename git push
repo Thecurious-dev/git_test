@@ -1,0 +1,17 @@
+[33mcommit ba9a1d5bab1dd7b34f05acddd58c9a2f892c4f68[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ogunyomade Yemi! <yhemyogunyomade@gmail.com>
+Date:   Mon Jan 31 17:09:57 2022 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit ff3905982bb255a02e8621541da996cb5a674ddc[m
+Author: Ogunyomade Yemi! <yhemyogunyomade@gmail.com>
+Date:   Mon Jan 31 17:01:34 2022 +0100
+
+    add hello_world.txt
+
+[33mcommit 4d85c32605aefdec85ce8ebef10f81d5df53971f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thecurious-dev <75482048+Thecurious-dev@users.noreply.github.com>
+Date:   Mon Jan 31 16:54:31 2022 +0100
+
+    Initial commit
